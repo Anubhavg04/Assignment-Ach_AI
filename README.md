@@ -40,12 +40,3 @@ npm run dev
 3. Open `http://localhost:3000` in your browser.
 
 ## Screenshots
-
-> Please replace these placeholders with the actual links/paths to your images before submission!
-
-- **Normal Mode (Stream + Tool Call):** `[Link to screenshot]`
-- **Trace Timeline:** `[Link to screenshot]`
-- **Context Inspector (Diff):** `[Link to screenshot]`
-
-## Video Recording
-> **Chaos Mode Survival Video:** `[Link to YouTube/Loom]`
